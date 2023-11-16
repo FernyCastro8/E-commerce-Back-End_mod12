@@ -84,7 +84,4 @@ Copyright (c) 2023 Ferny Castro
 
 ### Demo
 
-
-https://github.com/FernyCastro8/E-commerce-Back-End_mod13/assets/124219457/fda18723-48ba-4d11-81e2-c6b337707887
-
-
+https://github.com/FernyCastro8/E-commerce-Back-End_mod13/assets/124219457/143732a5-f294-4a73-8f77-33ec676050c8
