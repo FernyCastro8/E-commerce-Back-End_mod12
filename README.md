@@ -52,7 +52,11 @@ https://github.com/FernyCastro8/E-commerce-Back-End_mod13.git
 
 
 - URL
-
+https://fernycastro8.github.io/E-commerce-Back-End_mod13/
 
 - [ Walkthrough video ]
+
+
+https://user-images.githubusercontent.com/124219457/233516284-35e3c77b-d052-4fb4-a0a2-567de09da26e.mov
+
 
